@@ -1,0 +1,193 @@
+.basic{
+    margin-top: 10px;
+    height: 780px;
+    height: 703px;
+    border-top: 33px solid blue;
+    border-right: 1px solid black;
+    border-bottom: 33px solid blue;
+    border-left: 1px solid black;
+    border-radius: 13px;
+    margin: 13px;
+    
+}
+.online{
+    color:blue;
+    margin-left: 8px;
+}
+.field{
+    color:red;
+    padding-right: 8px;
+}
+.mndtry{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 13px;
+}
+.border{
+    width: 1293px;
+    height: 583px;
+    border: 0px solid whitesmoke;
+    border-radius: 13px;
+    background-color: whitesmoke;
+    margin: 13px;
+    margin-top: -8px;
+
+}
+.pt{
+    margin: 13px;
+}
+.pt1{
+    padding-left: 123px;
+    padding-right: 36px;
+    padding-top: 4px;
+    padding-bottom:4px ;
+    margin-left: 453px;
+    border-radius: 5px;
+    }
+.program{
+        margin: 13px;
+    }
+.program1{
+        padding-left: 123px;
+        padding-right: 95px;
+        padding-top: 4px;
+        padding-bottom:4px ;
+        margin-left: 493px;
+        border-radius: 5px;
+        }
+.course{
+            margin: 13px;
+        }
+ .course1{
+        padding-left: 123px;
+        padding-right: 95px;
+        padding-top: 4px;
+        padding-bottom:4px ;
+        margin-left: 498px;
+        border-radius: 5px;
+            }
+.candidate{
+            margin: 13px;
+            }
+.candidate1{
+        padding-left: 93px;
+        padding-right: 21px;
+        padding-top: 3px;
+        padding-bottom:3px ;
+        margin-left: 433px;
+        border-radius: 5px;
+        border:0.5px solid black;
+                }
+.dob{
+    margin: 13px;
+    }
+.dob1{
+        padding-left: 106px;
+        padding-right: 53px;
+        padding-top: 3px;
+        padding-bottom:3px ;
+        margin-left: 335px;
+        border-radius: 5px;
+        border:0.5px solid black;
+                    }
+.domicile{
+        margin: 13px;
+            }
+.domicile1{
+            padding-left: 125px;
+            padding-right: 36px;
+            padding-top: 4px;
+            padding-bottom:4px ;
+            margin-left: 446px;
+            border-radius: 5px;
+                        }
+.mail{
+        margin: 13px;
+        }
+.mail1{
+        padding-left: 113px;
+        padding-right: 6px;
+        padding-top: 3px;
+        padding-bottom:3px ;
+        margin-left: 517px;
+        border-radius: 5px;
+        border:0.5px solid black;
+    }
+.cmail{
+        margin: 13px;
+        }
+.cmail1{
+        padding-left: 110px;
+        padding-right: 10px;
+        padding-top: 3px;
+        padding-bottom:3px ;
+        margin-left: 451px;
+        border-radius: 5px;
+        border:0.5px solid black;
+    }
+.country{
+        margin: 13px;
+        }
+.country1{
+        padding-left: 110px;
+        padding-right: 10px;
+        padding-top: 3px;
+        padding-bottom:3px ;
+        margin-left: 456px;
+        border-radius: 5px;
+        border:0.5px solid black;
+    }
+.mobile{
+        margin: 13px;
+        }
+.mobile1{
+        padding-left: 110px;
+        padding-right: 10px;
+        padding-top: 3px;
+        padding-bottom:3px ;
+        margin-left: 438px;
+        border-radius: 5px;
+        border:0.5px solid black;
+    }
+    .button{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        background-color: whitesmoke;
+    }
+    .btns {
+        display: flex;
+        justify-content: center;
+        margin: 5px;
+      }
+      .continueBtn{
+        color: #33b249;
+      }
+      .submit {
+        color:white;
+        background-color: blue;
+        border-radius: 8px;
+        /* background-color: #33b2499e;
+        border-radius: 10px;
+        box-shadow: 0px 5px 10px 0px rgb(105 157 104 / 50%);
+        width: 100px;
+        margin-right: 20px; */
+      }
+      .back {
+        width: 93px;
+        color: white;
+        background-color: blue;
+        border-radius: 8px;
+        margin-left: 13px;
+        padding-left: 13px;        /* background-color: #ff0000ad;
+        border-radius: 10px;
+        box-shadow: 0px 5px 10px 0px #dc354569;
+        width: 100px; */
+      }
+      .submit:hover{
+        background-color: #33b249;
+      }
+      .back:hover{
+        background-color: #33b249;
+      }
